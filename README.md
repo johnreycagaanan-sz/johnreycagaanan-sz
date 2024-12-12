@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm John Rey Caga-anan, a junior web developer currently working for SupportZebra 🦓</div>  
+### <div align="center">I'm John Rey Caga-anan, a web developer currently working for SupportZebra 🦓</div>  
   
 
 -  💻 I’m currently learning backend web development and technologies  
